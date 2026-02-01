@@ -1,6 +1,6 @@
 ﻿# Projet de Synthèse M2 CHPS – Modélisation Épidémiologique SEIRS & Multi-Agent
 
-**Auteur** : Omar  
+**Auteur** : Omar  LACHIRI
 **Date de rendu** : 1er février 2026  
 **Contact** : *omarlachiri112@gmail.com*
 
@@ -140,3 +140,4 @@ Figures avec légendes
 
 Discussion statistique
 ```
+
