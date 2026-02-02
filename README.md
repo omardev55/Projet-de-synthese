@@ -29,7 +29,7 @@ afin d'éviter toute similarité excessive avec d'autres travaux.
 ```text
 .
 ├── README.md                  # Ce fichier
-├── rapport.pdf                # Rapport final (< 30 pages)
+├── rapport.pdf                # Rapport final 
 │
 ├── partie1/                   # Résolution ODE SEIRS
 │   ├── python/
@@ -46,13 +46,13 @@ afin d'éviter toute similarité excessive avec d'autres travaux.
 │   │   ├── multi_agent.c      # Implémentation native C
 │   │   └── Makefile
 │   ├── cpp/
-│   │   ├── multi_agent.cpp    # Implémentation native C++ (optionnel)
+│   │   ├── multi_agent.cpp    # Implémentation native C++ 
 │   │   └── Makefile
 │   ├── python/
 │   │   └── multi_agent.py     # Implémentation Python
 │   └── results/
 │       ├── c/                 # 30 réplications
-│       ├── cpp/               # 3 réplications (si implémenté)
+│       ├── cpp/               # 3 réplications 
 │       └── python/            # 3 réplications
 │
 ├── analysis/                  # Notebooks Jupyter
@@ -140,4 +140,5 @@ Figures avec légendes
 
 Discussion statistique
 ```
+
 
